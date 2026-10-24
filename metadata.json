@@ -1,0 +1,6 @@
+{
+  "name": "AeroCast GB - Day-Ahead Renewable Procurement & Forecast Analytics",
+  "description": "UK Day-Ahead electricity procurement and quantitative wind forecast accuracy analytics platform powered by Elexon BMRS data for energy utility trading desks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
